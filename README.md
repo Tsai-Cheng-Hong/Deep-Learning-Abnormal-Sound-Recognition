@@ -10,7 +10,7 @@
 
 然後下載dataset放到正確的路徑即可
 
-這邊放上dataset的下載連結 https://drive.google.com/file/d/1bLVmAwKd_GtMLsU9-rdLPvtC3Qiwya_b/view?usp=sharing
+這邊放上dataset的下載連結 
 
 我們萃取特徵的方式是使用MFCC，如果再加上其他特徵進行模型訓練的話，效果一定會更好
 
