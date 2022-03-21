@@ -18,4 +18,4 @@
 
 preprocess.py是前處理的程式，主要是在做切音框與特徵萃取的事情
 
-但是我在SpeechRecognition.py有把它呼叫進來，所以直接執行SpeechRecognition.py就可以了。xxx
+但是我在SpeechRecognition.py有把它呼叫進來，所以直接執行SpeechRecognition.py就可以了。
