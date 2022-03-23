@@ -19,3 +19,13 @@
 preprocess.py是前處理的程式，主要是在做切音框與特徵萃取的事情
 
 但是我在SpeechRecognition.py有把它呼叫進來，所以直接執行SpeechRecognition.py就可以了。
+
+訓練流程:
+
+1.Dataset & Label : 網路下載
+
+2.特徵萃取 : MFCC
+
+3.特徵選擇 : 卷積神經網路(CNN)
+
+4.分類器 : 3-Layers Fully Connect
