@@ -22,7 +22,7 @@ preprocess.py是前處理的程式，主要是在做切音框與特徵萃取的�
 
 訓練流程:
 
-1.Dataset & Label : 網路下載
+1.Dataset & Label : CHEN, Oscal T.-C., et al. Voice-activity home care system. In: 2016 IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI). IEEE, 2016. p. 110-113.
 
 2.特徵萃取 : MFCC
 
